@@ -3,3 +3,19 @@
     color: white;
 }
 
+*{
+background-color: black;
+color: white;
+text-align: center;
+}
+
+.heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 79px;
+    margin: auto;
+    
+}
+.slideshow{
+    text-align: center;
+}
+
