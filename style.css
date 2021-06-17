@@ -1,21 +1,54 @@
+
+*{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
 .jumbotron{
     background-color: black;
     color: white;
 }
+/* .logo{
+    margin-bottom: -1px;
 
-*{
-background-color: black;
-color: white;
-text-align: center;
-}
-
+} */
 .heading{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 79px;
     margin: auto;
-    
+
+}
+.intro{
+    font-family: 'Times New Roman', Times, serif;
 }
 .slideshow{
     text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
+.card-info{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-style: dotted;
+    padding-top: 5px;
+}
+
+.inventory{
+    margin-bottom: 50px;
+}
+.head{
+    margin-bottom: 50px;
+}
+.contact{
+  margin-left: 25px;  
+}
+.footer{
+    background-color: tomato;
+    color: white;
+
+}
+.logo-footer{
+    margin-left: 2px;
+}
